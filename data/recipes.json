@@ -1,0 +1,1761 @@
+[
+  {
+    "nama": "Bubur Ayam Istimewa",
+    "bahan": {
+      "utama": [
+        "2 sdm minyak goreng",
+        "1 sdm minyak wijen",
+        "5 siung bawang putih, cincang",
+        "100 gr bawang bombay, cincang",
+        "1/2 ayam, potong kecil-kecil",
+        "2 sdm saus tiram",
+        "1 sdt garam",
+        "1/2 sdt merica bubuk",
+        "1 sdm ROYCO rasa ayam",
+        "150 gr jamur kancing kaleng, iris",
+        "150 gr jagung manis pipilan"
+      ],
+      "bubur": [
+        "150 gr beras",
+        "800 ml air",
+        "3 cm jahe, memarkan",
+        "2 batang serai, memarkan"
+      ],
+      "taburan": ["kulit pangsit, iris, goreng", "daun ketumbar"],
+      "pelengkap": ["saus sambal botolan", "acar ketimun"]
+    },
+    "cara_membuat": [
+      "Masak beras bersama air, jahe, dan serai hingga menjadi bubur setengah matang, angkat.",
+      "Panaskan minyak bersama minyak wijen, tumis bawang putih dan bawang bombay hingga harum. Masukkan ayam, saus tiram, garam, dan merica bubuk, masak hingga ayam berubah warna. Tambahkan ROYCO rasa ayam, jamur, dan jagung, masak hingga ayam lunak, angkat.",
+      "Masukkan tumisan ayam ke dalam bubur, aduk rata.",
+      "Masak bubur bersama ayam hingga bumbu merata dan ayam lunak, angkat.",
+      "Sajikan hangat, taburi pangsit goreng dan daun ketumbar. Lengkapi dengan saus sambal dan acar."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Empal (Jawa Barat)",
+    "bahan": {
+      "utama": [
+        "1 kg daging sapi bagian gandik/paha",
+        "4 lembar daun salam",
+        "250 ml santan kental",
+        "minyak untuk menggoreng"
+      ],
+      "bumbu_halus": [
+        "10 butir bawang merah",
+        "6 siung bawang putih",
+        "1 sdm ketumbar, sangrai",
+        "2 sdt garam",
+        "1 sdm gula merah iris"
+      ],
+      "taburan": ["bawang goreng"]
+    },
+    "cara_membuat": [
+      "Rebus daging sapi bagian gandik sampai lunak, angkat. Potong daging selebar 5 cm mengikuti serat dan tebal 1 cm, memarkan.",
+      "Didihkan santan bersama bumbu halus dan daun salam. Masukkan daging dan masak sampai santan menyusut, angkat.",
+      "Suwir-suwir sebagian daging, sisihkan.",
+      "Panaskan minyak, goreng daging hingga kecoklatan, angkat, tiriskan.",
+      "Sajikan sebagai pelengkap nasi rawon dengan taburan bawang goreng."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Gado-Gado Padang",
+    "bahan": {
+      "utama": [
+        "100 gram mie",
+        "150 gram kol iris halus",
+        "200 gram kentang rebus, iris tipis",
+        "1 ikat selada, diiris",
+        "1 buah ketimun, diiris tipis",
+        "3 butir telur rebus, masing-masing dipotong 6"
+      ],
+      "saus": [
+        "5 sendok makan minyak goreng untuk menumis",
+        "200 gram kacang tanah",
+        "3 buah cabe merah",
+        "3 siung bawang putih",
+        "5 butir bawang merah",
+        "3 butir merica",
+        "1 lembar daun salam",
+        "2 cm lengkuas dimemarkan",
+        "450 ml air",
+        "1 sendok makan garam",
+        "½ sendok makan gula merah"
+      ]
+    },
+    "cara_membuat": [
+      "Goreng kacang tanah, cabai, bawang merah, dan bawang putih.",
+      "Haluskan bumbu goreng bersama merica.",
+      "Panaskan minyak, tumis bumbu halus, daun salam, lengkuas sampai harum. Tambahkan air, garam, dan gula merah. Masak dan aduk sampai mendidih.",
+      "Susun mie, kol, kentang, selada, ketimun, dan telur lalu siram dengan sausnya.",
+      "Taburi gado-gado dengan kerupuk dan bawang goreng."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Gado-Gado Siram",
+    "bahan": {
+      "utama": [
+        "150 gram kol, iris",
+        "1 ikat bayam, siangi",
+        "50 gram taoge, siangi",
+        "6 lonjor kacang panjang, potong 4 cm",
+        "1 buah tahu putih, goreng",
+        "150 gram tempe, goreng",
+        "1 buah ketimun, potong dadu",
+        "2 butir telur, rebus matang",
+        "Emping goreng secukupnya"
+      ],
+      "bumbu_kacang": [
+        "300 gram kacang tanah, goreng, haluskan",
+        "500 ml santan dari 1 butir kelapa",
+        "1 batang serai, memarkan",
+        "2 lembar daun jeruk",
+        "4 sdm saus tomat botolan",
+        "2 sdm kecap manis",
+        "2 sdm minyak goreng",
+        "1 sdm penyedap rasa ayam"
+      ],
+      "haluskan": [
+        "2 cabe merah",
+        "5 siung bawang merah",
+        "3 siung bawang putih",
+        "2 cm kencur",
+        "1 sdt garam"
+      ],
+      "pelengkap": ["Daun selada", "Tomat", "Telur rebus"],
+      "taburan": ["Bawang goreng"]
+    },
+    "cara_membuat": [
+      "Saus: panaskan minyak, tumis bumbu halus hingga harum. Campur tumisan bumbu dengan kacang tanah, santan, serai, daun jeruk, saus tomat, kecap manis, dan penyedap rasa ayam, aduk rata, masak hingga mendidih, angkat.",
+      "Rebus sayuran hingga matang, angkat, tiriskan.",
+      "Siapkan pinggan, tata sayuran, tahu, dan tempe. Tuangkan bumbu kacang atau sajikan terpisah, taburi bawang goreng. Lengkapi dengan telur rebus dan emping goreng, sajikan."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Karedok (Jawa Barat)",
+    "bahan": {
+      "bumbu_saus": [
+        "250 gram kacang tanah, goreng, haluskan",
+        "6 buah cabai rawit merah rebus",
+        "6 buah cabai merah besar rebus",
+        "5 cm kencur",
+        "3 siung bawang putih",
+        "1 sdm gula merah sisir",
+        "1 sdt garam",
+        "1 jeruk limau, peras airnya",
+        "1 sdm cuka masak",
+        "150 ml air matang",
+        "150 gram oncom, bakar"
+      ],
+      "sayuran": [
+        "5 lonjor kacang panjang, iris halus",
+        "2 lembar kol, iris halus",
+        "3 terong lalap, potong dadu kecil",
+        "1 buah ketimun, iris",
+        "50 gram taoge, siangi, rebus sebentar",
+        "50 kemangi"
+      ],
+      "pelengkap": ["Kerupuk merah/sagu"]
+    },
+    "cara_membuat": [
+      "Bumbu/saus: haluskan kacang tanah bersama cabai merah besar, cabai rawit, bawang putih, gula merah, dan garam, aduk rata. Tambahkan air, oncom remas, masukan ke dalam bumbu, beri air jeruk limau, aduk rata.",
+      "Penyajian: cuci bersih sayuran, iris lalu masukan ke dalam bumbu, aduk rata, tambahkan kemangi, aduk rata, sajikan."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Ketoprak (Jakarta)",
+    "bahan": {
+      "utama": [
+        "5 buah tahu putih ukuran 6x6x2 cm",
+        "50 gram bihun, rendam air dingin hingga lunak, tiriskan",
+        "250 gram taoge, siangi, cuci bersih dan seduh dengan air panas, angkat.",
+        "4 buah ketupat"
+      ],
+      "saus": [
+        "250 gram kacang tanah, goreng, haluskan",
+        "6 siung bawang putih",
+        "5 buah cabai rawit merah, goreng sebentar",
+        "100 ml air hangat",
+        "1 sdt garam",
+        "kecap manis secukupnya"
+      ],
+      "pelengkap": ["bawang goreng", "irisan seledri", "kerupuk merah"]
+    },
+    "cara_membuat": [
+      "Goreng tahu setengah matang, angkat, tiriskan, potong menurut selera.",
+      "Saus: haluskan bawang putih bersama cabai rawit dan garam. Tambahkan kacang, air, dan kecap manis, haluskan, aduk rata, sisihkan.",
+      "Siapkan pinggan, tata ketupat, bihun, taouge, dan tahu. Tuangkan saus, beri kecap manis. Taburi bawang goreng, irisan seledri, dan kerupuk merah. Sajikan segera."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Ketupat Sayur (Betawi)",
+    "bahan": {
+      "utama": [
+        "2 sdm minyak goreng",
+        "500 gram pepaya muda, kupas, potong bentuk korek api",
+        "10 lonjor kacang panjang, potong 3 cm",
+        "3 sdm ebi kering",
+        "1,5 liter santan dari 2 butir kelapa",
+        "2 batang serai, memarkan",
+        "3 cm lengkuas, memarkan",
+        "2 lembar daun salam",
+        "1 sdm kaldu bubuk rasa ayam"
+      ],
+      "bumbu_halus": [
+        "7 cabai merah besar",
+        "8 butir bawang merah",
+        "3 siung bawang putih",
+        "1 sdt terasi goreng",
+        "1 sdt garam",
+        "1/2 sdt merica bubuk"
+      ],
+      "pelengkap": ["ketupat", "bawang goreng", "kerupuk"]
+    },
+    "cara_membuat": [
+      "Panaskan minyak goreng, tumis bumbu yang dihaluskan hingga harum. Masukkan ebi, santan, serai, lengkuas, dan daun salam, didihkan.",
+      "Setelah mendidih, masukkan pepaya muda, masak hingga lunak. Tambahkan kacang panjang dan kaldu bubuk rasa ayam. Masak sebentar, angkat.",
+      "Siapkan mangkuk, isi dengan ketupat sayur lodeh, taburi dengan bawang goreng dan kerupuk.",
+      "Sajikan hangat."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Kulit Pangsit Berempah (Malang)",
+    "bahan": [
+      "20 lembar kulit pangsit segi empat siap beli, potong diagonal menjadi dua",
+      "3 sendok makan mentega, lelehkan",
+      "4 sendok makan keju parmesan",
+      "1 sendok teh daun basil kering, memarkan",
+      "1 sendok teh cabai bubuk"
+    ],
+    "cara_membuat": [
+      "Olesi tiap lembaran pangsit dengan mentega cair sampai rata.",
+      "Campur dan aduk keju dengan basil dan cabai bubuk. Taburkan ke atas kulit pangsit sampai rata.",
+      "Panggang dengan oven pada panas 180°C selama 7 menit sampai kulit pangsit kering dan bumbu melekat.",
+      "Angkat."
+    ],
+    "porsi": 40
+  },
+  {
+    "nama": "Kupat Tahu (Jakarta)",
+    "bahan": {
+      "utama": [
+        "4 buah tahu ukuran sedang",
+        "2 buah lontong atau ketupat",
+        "100 gram taoge pendek",
+        "4 butir kentang ukuran sedang"
+      ],
+      "sambal": [
+        "10 cabai rawit atau sesuai selera",
+        "4 siung bawang putih",
+        "100 gram kacang tanah yang telah digoreng",
+        "4 sendok makan petis udang",
+        "8 sendok makan kecap manis",
+        "1 sendok teh cuka",
+        "Air matang secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Tahu digoreng, tapi jangan terlalu kering. Angkat kemudian potong kecil-kecil.",
+      "Kentang direbus, kupas lalu potong dadu kecil-kecil.",
+      "Taoge diseduh air panas, tiriskan.",
+      "Semua bahan tadi taruh dalam piring kemudian siram dengan sambalnya.",
+      "Tambahkan kerupuk sebagai teman santapan."
+    ],
+    "cara_membuat_sambal": [
+      "Cabai, bawang putih, dan kacang digerus. Bubuhi petis dan larutkan dengan beberapa sendok air matang.",
+      "Tambahkan kecap dan cuka. Sambal pun siap untuk disajikan."
+    ]
+  },
+  {
+    "nama": "Lotek (Jawa Barat)",
+    "bahan": {
+      "utama": [
+        "10 lonjor kacang panjang, potong-potong",
+        "1 buah labu siam, rebus matang",
+        "1 ikat kangkung, siangi",
+        "50 gram touge, seduh air panas, tiriskan",
+        "100 gram nangka muda, potong-potong",
+        "100 gram tempe, goreng",
+        "2 buah tahu ukuran sedang, goreng"
+      ],
+      "bumbu_saus": [
+        "250 gram kacang tanah, goreng",
+        "3 buah cabe merah besar, rebus",
+        "5 buah cabe rawit merah, rebus",
+        "3 cm kencur",
+        "1/2 sdt garam",
+        "1 sdm gula merah sisir",
+        "2 sdm air asam jawa",
+        "100 ml air hangat"
+      ],
+      "taburan": ["Bawang goreng", "Kerupuk"]
+    },
+    "cara_membuat": [
+      "Rebus sayuran hingga matang, tiriskan.",
+      "Bumbu/saus: siapkan cobek batu, haluskan cabe merah, cabe rawit, kencur, garam, dan gula merah. Tambahkan kacang tanah, haluskan, aduk rata. Masukkan air asam jawa dan air, aduk rata.",
+      "Penyajian: campur sayuran dengan bumbu, tempe, dan tahu goreng, aduk rata. Tata dalam piring, taburi dengan bawang goreng dan kerupuk merah. Sajikan segera."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Nasi Lengko (Cirebon)",
+    "bahan": {
+      "utama": [
+        "6 piring nasi putih",
+        "½ kg tauge rebus",
+        "Tempe",
+        "Tahu kuning",
+        "Daun kucai",
+        "Kacang digoreng",
+        "5 buah cabe rawit",
+        "5 buah cabe merah",
+        "Bawang putih secukupnya",
+        "Asam jawa secukupnya",
+        "Gula jawa secukupnya",
+        "Kecap manis secukupnya"
+      ]
+    },
+    "cara_membuat": {
+      "sambal_kacang": [
+        "Haluskan kacang goreng bersama dengan cabe rawit dan cabe merah.",
+        "Tambahkan bawang putih, garam secukupnya.",
+        "Tambahkan gula jawa dan asam jawa."
+      ],
+      "nasi_lengko": [
+        "Letakkan nasi putih di atas enam piring.",
+        "Taburkan tauge rebus dan daun kucai di atasnya.",
+        "Tambahkan irisan tempe dan tahu kuning yang dipotong bentuk dadu 1x1 cm.",
+        "Siram dengan sambal kacang, kemudian tambahkan kecap manis.",
+        "Hidangkan."
+      ]
+    }
+  },
+  {
+    "nama": "Nasi Uduk (Jakarta)",
+    "bahan": {
+      "utama": [
+        "300 gram beras putih",
+        "400 ml santan dari 1 butir kelapa",
+        "2 buah bunga pala",
+        "6 biji cengkih",
+        "5 cm kayu manis",
+        "1 biji pala memarkan",
+        "3 cm lengkuas memarkan",
+        "2 batang serai memarkan",
+        "2 cm jahe memarkan"
+      ],
+      "pelengkap": [
+        "Sambal kacang: 150 gram kacang tanah goreng, haluskan, 10 cabai rawit merah, haluskan, 2 sdm cuka masak, garam, dan bumbu penyedap secukupnya.",
+        "Bumbu kacang: 250 gram kacang tanah goreng, haluskan, 1 sdt garam, 2 sdm gula merah, air sisa merebus ayam.",
+        "Bawang goreng"
+      ]
+    },
+    "cara_membuat": [
+      "Cuci beras putih, rendam selama 30 menit, tiriskan, dan kukus selama 30 menit, angkat.",
+      "Didihkan santan dengan bunga pala, cengkih, kayu manis, pala, lengkuas, serai, dan jahe. Masak hingga harum, lalu saring.",
+      "Campur beras yang dikukus dengan santan panas tanpa api. Aduk rata hingga santan terserap.",
+      "Kukus kembali selama 30 menit hingga 1 jam hingga nasi lunak.",
+      "Sajikan hangat dengan sambal kacang, bawang goreng, dan aneka gorengan."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Sate Maranggi (Purwakarta)",
+    "bahan": {
+      "utama": ["350 gr daging has yang dipotong kecil-kecil"],
+      "bumbu_rendaman": [
+        "3 siung bawang putih, digeprek, cincang halus",
+        "Air lemon secukupnya",
+        "Garam secukupnya"
+      ],
+      "bumbu_kacang": [
+        "100 gr kacang mete",
+        "100 gr kacang tanah",
+        "5 sdm kecap manis",
+        "Air hangat secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Tusuk daging dengan tusuk sate.",
+      "Campur bahan bumbu rendaman dan rendam sate selama 3-4 menit agar bumbu meresap.",
+      "Haluskan kacang mete dan kacang tanah. Campur dengan kecap manis dan air hangat hingga bumbu kacang kental.",
+      "Bakar sate di atas bara api, bolak-balik agar matang merata.",
+      "Sajikan dengan sambal kacang dan sambal kecap."
+    ]
+  },
+  {
+    "nama": "Sate Padang (Padang)",
+    "bahan": {
+      "utama": [
+        "350 gram hati sapi, rebus sebentar, potong dadu",
+        "1 lidah sapi, rebus matang, potong dadu",
+        "500 gram daging sapi has dalam, potong dadu",
+        "3 batang serai, memarkan",
+        "4 cm jahe, memarkan",
+        "2 cm lengkuas, memarkan",
+        "1 lembar daun kunyit",
+        "4 lembar daun jeruk",
+        "500 ml air",
+        "50 gram tepung beras, larutkan dengan sedikit air"
+      ],
+      "bumbu_halus": [
+        "8 cabai merah besar",
+        "10 siung bawang merah",
+        "6 siung bawang putih",
+        "1 sdm ketumbar, sangrai",
+        "1 sdt jintan, sangrai",
+        "5 cm kunyit",
+        "1 sdt garam",
+        "½ sdt merica bubuk"
+      ],
+      "pelengkap": ["Ketupat", "Bawang goreng"]
+    },
+    "cara_membuat": [
+      "Campur bumbu halus dengan hati sapi, daging sapi, dan lidah sapi. Diamkan selama 30 menit.",
+      "Masak daging bersama rendaman, serai, jahe, lengkuas, daun kunyit, dan daun jeruk hingga matang. Angkat daging.",
+      "Kentalkan kuah dengan larutan tepung beras.",
+      "Tusuk 4-5 potong daging pada tusukan sate. Panggang sebentar di atas bara api.",
+      "Sajikan sate dengan ketupat dan sausnya. Taburi bawang goreng."
+    ]
+  },
+  {
+    "nama": "Siomay Bandung",
+    "bahan": {
+      "isi_siomay": [
+        "200 gr ayam cincang",
+        "100 gr udang dicincang",
+        "200 gr ikan tenggiri dihaluskan",
+        "2 sdm ebi digoreng dan diulek halus",
+        "2 batang daun bawang, iris halus",
+        "150 gr tepung tapioka",
+        "Tepung terigu secukupnya",
+        "150 gr labu siam atau bengkoang, serut halus",
+        "150 ml air"
+      ],
+      "bumbu_dihaluskan": [
+        "4 siung bawang putih",
+        "4 siung bawang merah",
+        "1 sdt merica",
+        "1 sdt gula",
+        "1 sdt garam",
+        "Kecap ikan secukupnya"
+      ],
+      "tambahan": ["Beberapa lembar kulit pangsit"]
+    },
+    "cara_membuat": [
+      "Campur semua bahan isi siomay dan bumbu halus, tambahkan kecap asin. Aduk dengan tangan hingga rata.",
+      "Tambahkan air 150 ml (boleh ditambah hingga maksimal 50 ml lagi) hingga adonan tidak terlalu cair atau keras.",
+      "Bentuk adonan dan isikan ke dalam kulit pangsit.",
+      "Kukus hingga matang."
+    ],
+    "saus_kacang": {
+      "bahan": [
+        "200 gr kacang tanah goreng",
+        "Gula merah secukupnya",
+        "1 sdt garam",
+        "Kecap secukupnya",
+        "3 siung bawang putih",
+        "50 gr kentang rebus, haluskan",
+        "Santan encer secukupnya"
+      ],
+      "cara_membuat": [
+        "Haluskan dan campur semua bahan saus kacang.",
+        "Masak di api kecil hingga mengental dan berminyak."
+      ]
+    },
+    "penyajian": [
+      "Sajikan siomay bersama kol rebus yang digulung, kentang rebus, tahu, dan telur.",
+      "Tambahkan paria jika diinginkan.",
+      "Siram dengan saus kacang dan lengkapi dengan saus sambal, sambal, dan kecap."
+    ]
+  },
+  {
+    "nama": "Soto Bandung",
+    "bahan": {
+      "utama": [
+        "750 gram daging sapi sandung lamur",
+        "2 liter air",
+        "250 gram kacang kedelai",
+        "3 cm jahe, memarkan",
+        "2 batang serai, memarkan",
+        "2 sdm kecap manis",
+        "1 buah lobak, iris tipis",
+        "2 sdm kaldu rasa sapi"
+      ],
+      "bumbu_halus": [
+        "10 butir bawang merah",
+        "8 siung bawang putih",
+        "1 sdt garam",
+        "½ sdt merica bubuk"
+      ],
+      "pelengkap": [
+        "Irisan daun bawang",
+        "Irisan seledri",
+        "Bawang goreng",
+        "Sambal rebus"
+      ]
+    },
+    "cara_membuat": [
+      "Rendam kacang kedelai selama 1 jam, tiriskan, lalu goreng hingga matang. Angkat dan tiriskan.",
+      "Rebus daging hingga lunak, angkat, dan potong sesuai selera.",
+      "Panaskan minyak goreng, tumis bumbu halus hingga harum. Masukkan ke dalam kaldu, didihkan kembali.",
+      "Masukkan daging, irisan lobak, kaldu rasa sapi, dan kecap. Masak sebentar, angkat.",
+      "Sajikan soto dengan taburan daun bawang, seledri, bawang goreng, kacang kedelai goreng, dan sambal rebus."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Soto Kudus",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam",
+        "2 liter air",
+        "4 cm jahe, memarkan",
+        "12 siung bawang merah, iris halus",
+        "5 butir telur ayam, rebus",
+        "100 gram taoge, seduh air panas",
+        "6 sdm daun seledri, iris",
+        "2 sdm minyak goreng",
+        "3 sdm kecap manis"
+      ],
+      "bumbu_halus": [
+        "8 siung bawang putih",
+        "1 sdt jintan, sangrai",
+        "1 sdt ketumbar, sangrai",
+        "8 buah kemiri, sangrai",
+        "2 cm kunyit, bakar",
+        "1 sdt garam",
+        "½ sdt merica bubuk"
+      ],
+      "sambal_kecap": [
+        "8 buah cabai rawit hijau",
+        "3 siung bawang putih, tumis sebentar",
+        "100 ml kecap manis"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus ayam dengan jahe dan serai hingga lunak, angkat ayamnya, dan sisihkan kaldunya.",
+      "Panaskan minyak goreng, tumis bawang merah dan bumbu halus hingga harum. Masukkan ke dalam kaldu.",
+      "Tambahkan kecap manis, lalu didihkan kembali.",
+      "Suwir-suwir ayam.",
+      "Siapkan mangkuk, tata taoge, ayam suwir, dan telur rebus. Tuangkan kuah ke dalam mangkuk.",
+      "Sajikan dengan sambal kecap."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Soto Makassar",
+    "bahan": {
+      "utama": [
+        "500 gram daging sapi sandung lamur",
+        "500 gram babat, rebus matang",
+        "300 gram hati sapi, rebus matang",
+        "200 gram jantung sapi, rebus matang",
+        "5 batang serai, memarkan",
+        "4 cm lengkuas, memarkan",
+        "2 cm jahe, memarkan",
+        "5 lembar daun salam",
+        "250 gram kacang tanah, goreng, haluskan",
+        "2,5 liter air tajin (air cuci beras)",
+        "1 sdm bumbu kaldu bubuk rasa sapi",
+        "6 sdm minyak sayur"
+      ],
+      "bumbu_halus": [
+        "10 siung bawang putih",
+        "8 butir kemiri, sangrai",
+        "1 sdm ketumbar, sangrai",
+        "1 sdt jintan, sangrai",
+        "1 sdt garam",
+        "1 sdt merica butiran"
+      ],
+      "pelengkap": [
+        "Bawang goreng",
+        "Irisan daun bawang",
+        "Irisan seledri",
+        "Sambal taoco"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging sapi, babat, hati, dan jantung dengan serai, lengkuas, jahe, dan daun salam hingga matang. Angkat dan potong dadu.",
+      "Panaskan minyak, tumis bumbu halus hingga harum. Masukkan ke dalam kaldu, tambahkan kacang tanah goreng. Didihkan.",
+      "Siapkan mangkuk, isi dengan daging dan jerohan, lalu tuangkan kuah.",
+      "Taburi dengan bawang goreng, daun bawang, dan seledri.",
+      "Sajikan dengan buras dan sambal taoco."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Soto Padang",
+    "bahan": {
+      "utama": [
+        "500 gram daging sapi",
+        "1 potong tulang sengkel sapi",
+        "2 liter air",
+        "2 lembar daun salam",
+        "3 lembar daun jeruk",
+        "2 batang serai, memarkan",
+        "2 sdm bumbu soto padang basah siap pakai",
+        "1 sdt kaldu bubuk rasa sapi"
+      ],
+      "bumbu_halus": [
+        "8 butir bawang merah",
+        "5 siung bawang putih",
+        "1 sdt merica butiran",
+        "2 sdt garam",
+        "2 cm jahe",
+        "2 cm lengkuas",
+        "3 cm kunyit, bakar"
+      ],
+      "pelengkap": [
+        "100 gram soun, rendam hingga lunak, tiriskan",
+        "Perkedel kentang",
+        "Sambal rebus",
+        "Irisan seledri",
+        "Irisan daun bawang",
+        "Bawang goreng",
+        "Paru goreng kering",
+        "Kerupuk merah",
+        "Nasi putih"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging sapi dan tulang sengkel hingga lunak. Angkat dagingnya, tiriskan.",
+      "Panaskan minyak, tumis bumbu halus bersama daun salam, daun jeruk, dan bumbu siap pakai hingga harum. Masukkan ke dalam kaldu, didihkan.",
+      "Tambahkan kaldu bubuk, aduk rata, angkat.",
+      "Goreng daging sapi utuh hingga kecokelatan, lalu potong dadu.",
+      "Siapkan mangkuk, isi dengan soun, potongan daging atau paru goreng, dan perkedel. Tuangkan kuahnya.",
+      "Taburi dengan bawang goreng, seledri, daun bawang, dan kerupuk merah. Lengkapi dengan sambal rebus.",
+      "Sajikan hangat."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Soto Pekalongan",
+    "bahan": {
+      "utama": [
+        "750 gram daging sandung lamur",
+        "3 cm jahe, memarkan",
+        "3 batang serai, memarkan",
+        "3 lembar daun jeruk",
+        "3 sdm taoco manis",
+        "2 sdm kecap manis",
+        "1.5 liter air"
+      ],
+      "bumbu_halus": [
+        "6 cabai merah besar",
+        "8 bawang merah",
+        "6 siung bawang putih",
+        "2 sdt garam",
+        "1 sdt merica butiran",
+        "3 cm kunyit bakar"
+      ],
+      "pelengkap": [
+        "Bawang goreng",
+        "Irisan seledri",
+        "Telur rebus",
+        "Emping goreng",
+        "Air jeruk nipis"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging dengan jahe, serai, dan daun jeruk hingga lunak. Angkat, potong sesuai selera, dan sisihkan.",
+      "Panaskan sedikit minyak, tumis bumbu halus, potongan daging, taoco, dan kecap manis. Aduk rata.",
+      "Masukkan tumisan ke dalam kaldu, masak sebentar, angkat.",
+      "Siapkan mangkuk, isi dengan soto, lengkapi dengan telur rebus, bawang goreng, irisan seledri, dan emping goreng.",
+      "Sajikan hangat."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Soto Sokaraja",
+    "bahan": {
+      "utama": [
+        "1 kg daging sapi",
+        "2 liter air",
+        "100 gram soun, rendam air dingin, tiriskan",
+        "100 gram taoge pendek, cuci bersih",
+        "150 gram kedelai, rendam air hingga lunak lalu goreng",
+        "3 cm jahe, memarkan",
+        "2 batang serai, memarkan",
+        "2 cm lengkuas, memarkan",
+        "3 sdm kecap manis"
+      ],
+      "bumbu_halus": [
+        "7 butir bawang merah",
+        "5 siung bawang putih",
+        "3 cm kunyit, bakar",
+        "5 butir kemiri, sangrai",
+        "1 sdt garam",
+        "½ sdt merica bubuk"
+      ],
+      "pelengkap": [
+        "Irisan daun bawang",
+        "Irisan seledri",
+        "Bawang goreng",
+        "Kerupuk"
+      ],
+      "sambal_soto": [
+        "150 gram kacang tanah, goreng, lalu haluskan",
+        "7 buah cabai rawit merah",
+        "3 butir bawang merah",
+        "2 siung bawang putih",
+        "1 sdt garam",
+        "1 sdm gula merah",
+        "1 sdm air asam",
+        "250 ml air"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging hingga setengah matang, angkat.",
+      "Panaskan 2 sdm minyak goreng, tumis bumbu halus hingga harum. Masukkan ke dalam kaldu, tambahkan jahe, serai, lengkuas, dan kecap manis.",
+      "Masak hingga daging lunak dan bumbu merata. Angkat, potong-potong daging.",
+      "Siapkan mangkuk, isi dengan soun, taoge pendek, dan kuah soto.",
+      "Taburi irisan daun bawang, seledri, bawang goreng, kedelai goreng, dan sambal soto.",
+      "Sajikan hangat dengan lontong atau nasi."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Bolu Koja",
+    "bahan": {
+      "utama": [
+        "3 gelas tepung terigu",
+        "6 butir telur ayam",
+        "½ kg gula halus",
+        "6 gelas santan kental",
+        "1 gelas daun suji + pandan wangi",
+        "¼ mentega",
+        "Sedikit vanili"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus santan hingga mendidih, kemudian dinginkan. Tuangkan air daun suji ke dalam santan.",
+      "Kocok telur, gula, dan mentega hingga putih mengembang.",
+      "Masukkan santan ke dalam adonan, aduk merata. Tambahkan tepung sedikit demi sedikit sambil diaduk hingga tercampur rata.",
+      "Tuang adonan ke dalam loyang yang sudah dioles mentega dan ditaburi tepung.",
+      "Panggang dalam oven hingga matang."
+    ]
+  },
+  {
+    "nama": "Bubur Lemu (Jawa Barat)",
+    "bahan": {
+      "utama": [
+        "500 gram tepung beras",
+        "1 sdt garam",
+        "2 lembar daun pandan",
+        "1 sdt pasta pandan",
+        "2.5 liter santan dari 1 butir kelapa",
+        "Es batu secukupnya"
+      ],
+      "saus_gula": [
+        "250 gram gula merah",
+        "100 ml gula pasir",
+        "400 ml air",
+        "½ sdt maizena, larutkan dengan 3 sdm air"
+      ],
+      "saus_santan": ["500 ml santan kental", "½ sdt garam"]
+    },
+    "cara_membuat": [
+      "Larutkan tepung beras dengan santan, tambahkan garam, daun pandan, dan pasta pandan. Masak di atas api kecil hingga kental dan matang. Angkat, dinginkan.",
+      "Saus gula: campur gula merah, gula pasir, dan air. Rebus hingga mendidih dan gula larut. Tambahkan larutan maizena sedikit demi sedikit sambil diaduk, angkat.",
+      "Saus santan: campur santan dan garam, rebus hingga mendidih sambil diaduk. Angkat, sisihkan.",
+      "Ambil bubur lemu, bentuk lembaran tebal, masukkan ke dalam mangkuk. Siram dengan saus gula dan saus santan.",
+      "Tambahkan es batu, sajikan dingin."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Bubur Sekoi (Kalimantan)",
+    "bahan": [
+      "1 gelas sekoi",
+      "1 gelas gula merah, iris halus",
+      "1 gelas santan cair",
+      "1 gelas santan kental",
+      "½ kg ubi jalar, potong kecil-kecil",
+      "½ sdt garam",
+      "2 lembar daun pandan",
+      "1 potong jahe, memarkan"
+    ],
+    "cara_membuat": [
+      "Rebus sekoi dan ubi dengan air secukupnya sampai empuk.",
+      "Tambahkan gula merah dan santan cair. Aduk hingga menjadi bubur dan mengental.",
+      "Rebus santan kental secara terpisah dengan garam hingga mendidih.",
+      "Hidangkan bubur sekoi dengan menuangkan santan kental di atasnya. Sajikan hangat."
+    ]
+  },
+  {
+    "nama": "Getuk Lindri (Jawa)",
+    "bahan": [
+      "¼ kg singkong, dikukus",
+      "¼ butir kelapa, diparut, dikukus",
+      "50 gram gula pasir",
+      "Garam secukupnya",
+      "Esens mawar, vanili atau pandan, atau cacao"
+    ],
+    "cara_membuat": [
+      "Campur semua bahan dalam keadaan panas, haluskan tanpa terlalu diaduk-aduk.",
+      "Kukus selama 20 menit hingga matang.",
+      "Angkat, masukkan ke dalam gilingan daging atau cetakan kue kering, dan bentuk seperti kue wajik.",
+      "Sajikan dengan kelapa parut sebagai taburan."
+    ]
+  },
+  {
+    "nama": "Putu Mayang",
+    "bahan": {
+      "utama": [
+        "300 gram tepung beras",
+        "2 sdm gula pasir",
+        "1 sdt garam",
+        "100 gram tepung kanji",
+        "550 ml santan dari 1 butir kelapa",
+        "Daun pisang untuk alas"
+      ],
+      "saus": [
+        "200 gram gula jawa, disisir halus",
+        "25 gram gula pasir",
+        "500 ml santan dari 1 butir kelapa",
+        "1 lembar daun pandan",
+        "¼ sdt garam"
+      ]
+    },
+    "cara_membuat": [
+      "Masak tepung beras, gula, garam, dan santan sambil diaduk hingga menggumpal.",
+      "Tambahkan tepung kanji, uleni hingga rata.",
+      "Masukkan adonan ke dalam cetakan kue putu mayang. Tekan dan tampung di atas daun pisang yang telah diolesi minyak goreng.",
+      "Kukus selama 15 menit hingga matang.",
+      "Untuk saus: campur semua bahan saus, masak hingga mendidih, saring.",
+      "Sajikan putu mayang dengan saus."
+    ]
+  },
+  {
+    "nama": "Ayam Bakar Betutu (Bali)",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam",
+        "1 buah jeruk nipis",
+        "1 sdt garam",
+        "100 gram daun singkong rebus, iris halus",
+        "2 batang serai, iris bagian putihnya",
+        "4 lembar daun jeruk",
+        "3 sdm minyak untuk menumis",
+        "Daun pisang secukupnya"
+      ],
+      "bumbu_halus": [
+        "7 siung bawang merah",
+        "5 siung bawang putih",
+        "6 buah cabai merah",
+        "4 buah cabai rawit merah",
+        "1 sdt terasi",
+        "2 cm kunyit",
+        "½ sdm ketumbar",
+        "2 cm jahe, parut",
+        "2 cm lengkuas, parut",
+        "Garam dan gula merah secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Lumuri ayam dengan air jeruk nipis dan garam, diamkan selama 10 menit.",
+      "Panaskan minyak, tumis bumbu halus hingga harum. Tambahkan serai dan aduk rata.",
+      "Bagi bumbu tumis menjadi dua bagian. Campur satu bagian dengan daun singkong dan daun jeruk, aduk rata.",
+      "Lumurkan sisa bumbu ke seluruh bagian luar ayam.",
+      "Masukkan campuran daun singkong ke dalam rongga ayam.",
+      "Bungkus ayam dengan daun pisang, kukus selama 20 menit.",
+      "Panggang ayam yang telah dikukus hingga matang.",
+      "Sajikan ayam dengan cara dibelah bersama isinya."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Ayam Bakar Rica-Rica (Manado)",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam kampung, belah menjadi delapan",
+        "800 cc air",
+        "1 sdt garam",
+        "1 sdt air jeruk nipis",
+        "4 sdm minyak untuk menumis",
+        "3 cm jahe, memarkan",
+        "5 lembar daun jeruk"
+      ],
+      "bumbu_rica_rica": [
+        "7 buah cabai merah",
+        "10 buah cabai rawit merah",
+        "6 siung bawang merah",
+        "1 buah tomat merah, iris",
+        "1 sdt merica",
+        "1 sdt gula pasir",
+        "Garam secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Lumuri ayam dengan garam dan air jeruk nipis, diamkan selama 10 menit.",
+      "Haluskan bumbu rica-rica.",
+      "Panaskan minyak, tumis bumbu halus hingga harum. Masukkan daun jeruk, jahe, dan ayam.",
+      "Tambahkan air, tutup panci, dan masak hingga bumbu meresap dan ayam lunak selama kurang lebih 30 menit.",
+      "Bakar ayam sambil sesekali diolesi dengan sisa bumbu.",
+      "Sajikan ayam bakar rica dengan sisa bumbu dan nasi hangat."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Ayam Bumbu Hijau (Manado)",
+    "bahan": {
+      "utama": [
+        "½ ekor ayam negeri, potong 4 bagian",
+        "1 butir jeruk nipis, ambil airnya",
+        "1 sdt garam",
+        "3 sdm minyak untuk menumis",
+        "2 lembar daun jeruk, iris halus",
+        "1 lembar daun kunyit, iris halus",
+        "1 batang serai, memarkan dan iris",
+        "100 ml air",
+        "1 batang daun bawang, iris tipis",
+        "1 ikat kecil kemangi, ambil daunnya"
+      ],
+      "bumbu_halus": [
+        "3 siung bawang putih",
+        "4 butir bawang merah",
+        "5 buah cabai hijau besar",
+        "6 buah cabai rawit hijau",
+        "1 cm jahe",
+        "1 cm kunyit",
+        "3 butir kemiri",
+        "1 sdt garam",
+        "½ sdt kaldu instan (jika suka)"
+      ]
+    },
+    "cara_membuat": [
+      "Lumuri ayam dengan air jeruk nipis dan garam. Diamkan selama 15 menit.",
+      "Tumis bumbu halus bersama daun jeruk, daun kunyit, dan serai sampai harum.",
+      "Masukkan ayam, air, dan daun bawang. Tutup rapat wajan dan masak dengan api kecil sampai ayam empuk.",
+      "Tambahkan daun kemangi, masak sebentar, angkat."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Ayam Goreng",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam kampung, potong 4 bagian",
+        "2 batang serai, memarkan",
+        "3 cm lengkuas, memarkan",
+        "3 lembar daun salam",
+        "1 sdm gula merah, sisir",
+        "2 sdm air asam jawa",
+        "1 biji pala, memarkan",
+        "1 sdt kaldu bubuk rasa ayam",
+        "250 ml santan dari ½ butir kelapa",
+        "Minyak untuk menggoreng"
+      ],
+      "bumbu_halus": [
+        "8 butir bawang merah",
+        "5 siung bawang putih",
+        "1 sdm jintan sangrai",
+        "1 sdt jintan sangrai",
+        "1 sdt merica butiran",
+        "5 butir kemiri, sangrai",
+        "5 cm kunyit, bakar",
+        "1 cm jahe"
+      ]
+    },
+    "cara_membuat": [
+      "Cuci ayam hingga bersih, tiriskan.",
+      "Lumuri ayam dengan bumbu halus, tambahkan serai, lengkuas, daun salam, gula merah, air asam, pala, kaldu bubuk, dan santan.",
+      "Masak dengan api sedang hingga ayam lunak, angkat.",
+      "Goreng ayam dalam minyak panas hingga kuning kecoklatan.",
+      "Sajikan dengan nasi uduk."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Ayam Kremes",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam kampung ukuran kecil",
+        "2 lembar daun salam",
+        "4 lembar daun jeruk purut",
+        "1 batang serai, memarkan",
+        "1 ibu jari lengkuas, memarkan",
+        "1.5 liter air untuk merebus",
+        "2 sdm tepung kanji",
+        "2 sdm tepung beras",
+        "½ sdt baking powder",
+        "Minyak untuk menggoreng"
+      ],
+      "bumbu_halus": [
+        "1 sdt ketumbar, sangrai",
+        "½ sdt merica butir",
+        "½ sdt jinten",
+        "6 butir bawang merah",
+        "3 siung bawang putih",
+        "Garam secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Belah ayam menjadi bekakak (dilebarkan), lalu campur dengan bumbu halus, daun salam, daun jeruk, serai, lengkuas, dan air. Masak hingga ayam matang.",
+      "Goreng ayam dalam minyak panas hingga kuning kecoklatan, angkat.",
+      "Saring kaldu sisa rebusan ayam, panaskan kembali.",
+      "Larutkan tepung kanji, tepung beras, dan baking powder dengan sedikit air, masukkan ke dalam kaldu. Aduk hingga kental, angkat.",
+      "Goreng adonan kaldu kental sesendok demi sesendok hingga menjadi kremesan. Angkat dan tiriskan.",
+      "Taburkan kremesan di atas ayam goreng, sajikan."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Ayam Penyet",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam negeri, potong empat bagian",
+        "200 ml air",
+        "2 cm jahe, memarkan",
+        "1 lembar daun salam",
+        "Minyak secukupnya untuk menggoreng"
+      ],
+      "bumbu_halus": [
+        "4 siung bawang putih",
+        "1 sdt ketumbar",
+        "1 cm kunyit",
+        "Garam secukupnya"
+      ],
+      "sambal": [
+        "7 buah cabai merah keriting",
+        "7 buah cabai rawit merah",
+        "½ buah tomat merah",
+        "½ sdt terasi, dibakar",
+        "2 lembar daun jeruk purut, buang batangnya",
+        "½ sdt gula merah",
+        "Garam secukupnya",
+        "2 tangkai kemangi, ambil daunnya"
+      ]
+    },
+    "cara_membuat": [
+      "Campur air, bumbu halus, jahe, lengkuas, dan daun salam. Masak dengan api kecil hingga ayam matang dan bumbu meresap. Angkat.",
+      "Goreng ayam hingga berwarna kuning kecoklatan, angkat dan sisihkan.",
+      "Haluskan bahan sambal, tambahkan daun kemangi, tumbuk kasar.",
+      "Penyet ayam goreng dengan sambal hingga bumbu menempel pada dagingnya."
+    ]
+  },
+  {
+    "nama": "Bebek Bakar Bumbu Kemiri",
+    "bahan": {
+      "utama": [
+        "1 ekor bebek, potong menjadi 4 bagian",
+        "1 lembar daun salam",
+        "2 batang serai, memarkan",
+        "3 lembar daun jeruk",
+        "1 liter air"
+      ],
+      "bumbu_halus": [
+        "8 buah bawang merah",
+        "4 siung bawang putih",
+        "4 butir kemiri",
+        "1 cm jahe",
+        "2 cm lengkuas",
+        "1 sdt ketumbar, sangrai",
+        "1 sdt lada",
+        "1 sdt gula pasir",
+        "1 sdt garam"
+      ]
+    },
+    "cara_membuat": [
+      "Masukkan potongan bebek ke dalam panci, tambahkan daun salam, serai, daun jeruk, bumbu halus, dan air.",
+      "Masak dengan api sedang hingga bebek matang dan empuk, angkat.",
+      "Bakar potongan bebek di atas bara api sambil sesekali dibalik hingga matang dan kering.",
+      "Sajikan panas dengan sambal rawit."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Laksa Ayam (Betawi)",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam, potong 4 bagian",
+        "100 gram bihun, rendam air dingin",
+        "50 gram taoge, siangi, seduh air panas",
+        "2 butir telur, rebus matang",
+        "3 lembar daun jeruk",
+        "2 batang serai, memarkan",
+        "3 cm jahe, memarkan",
+        "3 cm lengkuas, memarkan",
+        "500 ml santan encer dari ½ butir kelapa",
+        "500 ml santan kental dari 1 butir kelapa",
+        "2 sdt garam",
+        "½ sdt merica bubuk",
+        "1 sdt kaldu bubuk rasa ayam",
+        "2 sdm minyak goreng",
+        "1 sdm ROYCO bumbu pelezat serbaguna rasa ayam"
+      ],
+      "bumbu_halus": [
+        "10 butir bawang merah",
+        "5 siung bawang putih",
+        "5 butir kemiri, sangrai",
+        "5 cm kunyit, bakar",
+        "1 sdm ketumbar, sangrai"
+      ],
+      "pelengkap": [
+        "Bihun",
+        "Irisan seledri",
+        "Daun bawang",
+        "Bawang goreng",
+        "Emping"
+      ]
+    },
+    "cara_membuat": [
+      "Panaskan minyak, tumis bumbu halus hingga harum. Masukkan ayam, daun jeruk, serai, jahe, dan lengkuas. Masak hingga ayam berubah warna.",
+      "Tambahkan santan encer dan ROYCO, masak hingga ayam lunak.",
+      "Masukkan santan kental, masak sebentar, angkat ayam, tiriskan, dan suwir-suwir.",
+      "Siapkan mangkuk, isi dengan lontong, bihun, dan taoge. Tuangkan kuahnya, taburi dengan irisan seledri, daun bawang, bawang goreng, dan emping.",
+      "Sajikan hangat."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Opor Ayam dan Telur (Betawi)",
+    "bahan": {
+      "utama": [
+        "1 ekor ayam, potong 4 bagian",
+        "8 butir telur ayam, rebus matang, kupas",
+        "3 lembar daun salam",
+        "2 batang serai, memarkan",
+        "2 cm jahe, memarkan",
+        "5 lembar daun jeruk",
+        "300 ml santan encer dari ½ butir kelapa",
+        "500 ml santan kental dari 1 butir kelapa",
+        "1 sdm air asam jawa",
+        "2 sdm minyak goreng"
+      ],
+      "bumbu_halus": [
+        "6 siung bawang merah",
+        "3 siung bawang putih",
+        "1 sdm ketumbar, sangrai",
+        "3 butir kemiri, sangrai",
+        "1 sdm gula pasir",
+        "2 sdt garam"
+      ]
+    },
+    "cara_membuat": [
+      "Cuci ayam, lumuri dengan air jeruk nipis dan sedikit garam. Diamkan sebentar, cuci bersih kembali, tiriskan.",
+      "Panaskan minyak goreng, tumis bumbu halus hingga harum. Masukkan ayam, salam, serai, jahe, dan daun jeruk, masak hingga ayam berubah warna.",
+      "Tambahkan santan encer, masak hingga ayam lunak.",
+      "Tambahkan santan kental, air asam jawa, dan telur. Masak hingga bumbu mengental, angkat.",
+      "Suwir-suwir dada ayam, telur potong dua bagian.",
+      "Sajikan sebagai pelengkap nasi liwet."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Semur Betawi (Betawi)",
+    "bahan": {
+      "utama": [
+        "6 butir telur ayam, rebus matang",
+        "3 buah kentang, kupas, potong sesuai selera",
+        "6 buah tahu putih ukuran 6 cm",
+        "2 sdm minyak goreng",
+        "6 butir cengkih",
+        "3 cm kulit kayu manis",
+        "½ biji pala, memarkan",
+        "10 sdm kecap manis",
+        "750 ml air"
+      ],
+      "bumbu_halus": [
+        "7 siung bawang merah",
+        "2 siung bawang putih",
+        "1 sdt garam",
+        "½ sdt merica bubuk"
+      ]
+    },
+    "cara_membuat": [
+      "Panaskan minyak goreng, tumis bumbu halus hingga harum.",
+      "Masukkan air, kecap manis, cengkih, kayu manis, dan pala. Didihkan.",
+      "Masukkan kentang, tahu, dan telur. Masak hingga kuah menyusut dan berwarna gelap. Angkat.",
+      "Sajikan."
+    ]
+  },
+  {
+    "nama": "Buntil (Jawa Tengah)",
+    "bahan": {
+      "utama": [
+        "12 lembar daun talas, labu, pepaya, singkong, atau daun teratai muda"
+      ],
+      "isi": [
+        "200 gr kelapa muda, parut memanjang",
+        "1 sdm petai Cina",
+        "150 gr teri nasi",
+        "4 siung bawang merah, haluskan",
+        "3 siung bawang putih, haluskan",
+        "1 sdt garam"
+      ],
+      "kuah": [
+        "500 ml santan kental",
+        "1 lembar daun salam",
+        "10 buah cabai rawit",
+        "2 cm jahe, memarkan",
+        "3 siung bawang merah, haluskan",
+        "2 siung bawang putih, haluskan",
+        "1 cm kencur, haluskan",
+        "1 sdt gula pasir",
+        "1 sdt garam",
+        "2 sdt minyak goreng"
+      ],
+      "bumbu_halus": [
+        "6 siung bawang merah",
+        "4 siung bawang putih",
+        "1 cm kencur",
+        "1 cm lengkuas",
+        "1 sdt jintan",
+        "1 sdt gula pasir atau gula merah",
+        "½ sdm ketumbar, sangrai"
+      ]
+    },
+    "cara_membuat": [
+      "Cuci daun talas atau daun lain, tiriskan, dan angin-anginkan hingga layu.",
+      "Isi: campur semua bahan isi dengan bumbu halus, aduk rata. Ambil dua lembar daun, isi dengan 2 sdm bahan isi, lalu bungkus menyerupai buntil.",
+      "Kukus buntil hingga matang. Angkat dan sisihkan.",
+      "Kuah: panaskan minyak, tumis bumbu hingga harum. Tuang santan dan masak sambil diaduk hingga mengental.",
+      "Penyajian: atur buntil di atas piring saji, siram dengan kuah santan sebelum disajikan. Hidangkan panas."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Gudeg Ceker (Jogjakarta)",
+    "bahan": {
+      "utama": [
+        "750 gr nangka muda, kupas, potong-potong",
+        "500 ml air kelapa",
+        "750 ml santan kental dari 2 butir kelapa",
+        "4 butir telur, rebus matang, kupas",
+        "2 lembar daun jati",
+        "150 gr gula merah",
+        "6 lembar daun salam",
+        "4 cm lengkuas, memarkan",
+        "100 gr daging sapi, potong-potong",
+        "10 ceker ayam, cuci bersih"
+      ],
+      "bumbu_halus": [
+        "12 butir bawang merah",
+        "6 siung bawang putih",
+        "8 butir kemiri, sangrai",
+        "1 sdm ketumbar, sangrai",
+        "1 sdt garam"
+      ]
+    },
+    "cara_membuat": [
+      "Cuci bersih nangka, rebus sebentar dengan air kelapa. Angkat.",
+      "Siapkan panci, alasi dasar panci dengan daun jati. Taruh setengah bagian nangka muda dan setengah bagian bumbu halus.",
+      "Tambahkan sisa nangka, telur, sisa bumbu, gula merah, daging sapi, dan ceker ayam.",
+      "Tuang santan, tutup panci, masak dengan api sedang hingga gudeg matang dan ceker lunak. Angkat.",
+      "Sajikan dengan nasi hangat."
+    ]
+  },
+  {
+    "nama": "Gulai Jantung Pisang",
+    "bahan": {
+      "utama": [
+        "1 buah jantung pisang batu",
+        "2 sdm minyak goreng",
+        "500 ml santan kental dari 1 butir kelapa",
+        "2 lembar daun salam",
+        "2 cm lengkuas",
+        "3 lembar daun jeruk",
+        "2 sdm air asam jawa"
+      ],
+      "bumbu_halus": [
+        "5 cabai merah besar",
+        "8 butir bawang merah",
+        "5 siung bawang putih",
+        "1 sdt garam",
+        "½ sdt merica bubuk",
+        "1 sdt gula pasir"
+      ]
+    },
+    "cara_membuat": [
+      "Buang kulit luar jantung pisang, potong memanjang, iris tipis, dan cuci bersih. Rebus hingga layu, angkat dan tiriskan.",
+      "Panaskan minyak, tumis bumbu halus hingga harum. Masukkan daun salam, lengkuas, dan daun jeruk.",
+      "Tambahkan santan, masak hingga bumbu merata dan kuah menyusut.",
+      "Masukkan jantung pisang, masak sebentar. Angkat dan sajikan dengan nasi putih."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Tempe Tahu Bacem",
+    "bahan": {
+      "utama": [
+        "6 potong tahu kecil",
+        "6 potong irisan tempe atau bungkusan segitiga",
+        "2 siung bawang putih, haluskan",
+        "1 potong gula merah",
+        "1 sdt air asam",
+        "2 cm lengkuas, memarkan",
+        "2 lembar daun salam",
+        "Garam secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus tahu, tempe, dan semua bahan dengan 1 gelas air hingga matang dan air hampir kering.",
+      "Angkat, lalu goreng dalam minyak panas hingga berwarna kecoklatan.",
+      "Sajikan selagi panas."
+    ]
+  },
+  {
+    "nama": "Tumis Oncom (Bandung)",
+    "bahan": {
+      "utama": [
+        "1 potong (300 g) oncom Bandung, memarkan",
+        "4 sdm minyak goreng",
+        "100 g teri nasi tawar, goreng kering",
+        "100 g kacang kedelai goreng, siap beli",
+        "2 sdm bawang merah goreng",
+        "3 siung bawang putih, iris tipis",
+        "5 butir bawang merah, iris tipis",
+        "10 buah cabai rawit, iris tipis",
+        "2 sdm kecap manis",
+        "1 sdm kecap asin",
+        "6 batang kucai, potong 2 cm"
+      ]
+    },
+    "cara_membuat": [
+      "Panaskan 2 sdm minyak, tumis oncom hingga kering. Angkat dan sisihkan.",
+      "Panaskan 2 sdm minyak, tumis bawang putih dan bawang merah hingga layu.",
+      "Masukkan cabai rawit, kecap manis, kecap asin, dan daun kucai. Aduk rata.",
+      "Tambahkan oncom, teri goreng, kacang kedelai goreng, dan bawang goreng. Aduk rata, angkat.",
+      "Sajikan."
+    ]
+  },
+  {
+    "nama": "Dendeng Balado (Padang)",
+    "bahan": {
+      "utama": [
+        "1 kg daging paha sapi",
+        "2 sdt garam",
+        "Minyak goreng secukupnya"
+      ],
+      "bumbu_perendam": [
+        "2 sdt bawang putih parut",
+        "1 sdm garam",
+        "1 sdm merica bubuk",
+        "100 ml air jeruk nipis",
+        "1 sdt cuka",
+        "50 ml air"
+      ],
+      "sambal": [
+        "100 ml minyak sayur",
+        "250 g cabai merah besar, memarkan",
+        "50 g bawang merah, memarkan",
+        "200 g tomat merah, iris kasar",
+        "100 ml air",
+        "1 sdt merica bubuk",
+        "1 sdt gula pasir",
+        "1 sdt garam",
+        "1 sdt cuka masak"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging dalam air secukupnya dan garam hingga hampir lunak. Angkat dan tiriskan.",
+      "Dinginkan daging, bungkus, dan simpan dalam freezer selama 3 jam hingga keras.",
+      "Keluarkan dari freezer, iris daging melintang serat tipis-tipis, lalu pukul-pukul hingga memar dan melebar.",
+      "Lumuri irisan daging dengan bumbu perendam, diamkan selama 1 jam agar meresap. Tiriskan.",
+      "Goreng daging dalam minyak panas hingga kering dan matang. Angkat dan tiriskan.",
+      "Untuk sambal: panaskan minyak, tumis cabai, bawang merah, dan tomat hingga layu. Masukkan bahan lainnya, masak hingga mendidih dan layu. Angkat.",
+      "Sajikan dendeng di piring saji, siram dengan sambal di atasnya."
+    ],
+    "porsi": 10
+  },
+  {
+    "nama": "Dendeng Batokok (Padang)",
+    "bahan": {
+      "utama": [
+        "500 gr daging sapi has dalam",
+        "1.5 liter air atau air kelapa"
+      ],
+      "bumbu_halus": [
+        "1 sdm ketumbar",
+        "5 siung bawang putih",
+        "1 cm jahe",
+        "2 sdt garam"
+      ],
+      "sambal": [
+        "300 gr cabai hijau",
+        "10 bawang merah",
+        "5 buah tomat hijau sayur, iris",
+        "6 sdm minyak goreng",
+        "½ sdt kaldu bubuk rasa sapi",
+        "50 ml kaldu",
+        "1 sdm air jeruk nipis"
+      ]
+    },
+    "cara_membuat": [
+      "Rebus daging bersama bumbu halus hingga lunak. Angkat, iris melintang serat setebal 1 cm, lalu pipihkan (tokok) daging. Panggang hingga cokelat gelap, sisihkan.",
+      "Untuk sambal: pukul-pukul cabai hijau dan bawang merah hingga pipih.",
+      "Panaskan minyak, tumis cabai dan bawang merah hingga harum. Tambahkan kaldu sisa merebus, kaldu bubuk, tomat, dan air jeruk nipis. Masak hingga kuah menyusut. Angkat.",
+      "Penyajian: tata daging panggang dalam piring, tuangkan sambalnya, dan sajikan segera."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Sayur Lodeh Bumbu Kuning",
+    "bahan": {
+      "utama": [
+        "2 sdm minyak goreng",
+        "150 gram daging sapi, potong-potong",
+        "3 lembar daun salam",
+        "3 cm lengkuas, memarkan",
+        "500 ml santan encer dari ½ butir kelapa",
+        "250 ml santan kental dari ½ butir kelapa",
+        "2 batang wortel, potong sesuai selera",
+        "3 buah kentang, potong sesuai selera",
+        "10 buncis, potong sesuai selera",
+        "4 lembar kol, potong-potong",
+        "1 buah tomat, potong-potong",
+        "½ sdt kaldu bubuk rasa ayam"
+      ],
+      "bumbu_halus": [
+        "6 butir bawang merah",
+        "3 siung bawang putih",
+        "3 cabai merah besar",
+        "5 cm kunyit, bakar",
+        "2 sdt garam",
+        "½ sdt merica bubuk"
+      ],
+      "taburan": ["Bawang goreng"]
+    },
+    "cara_membuat": [
+      "Panaskan minyak goreng, tumis bumbu halus hingga harum.",
+      "Masukkan daging sapi, daun salam, lengkuas, dan santan encer. Didihkan dan masak hingga daging lunak.",
+      "Tambahkan kentang dan masak hingga matang. Masukkan wortel, buncis, kol, dan kaldu bubuk. Masak hingga sayuran matang dan kuah menyusut.",
+      "Tambahkan tomat, angkat. Sajikan hangat dengan taburan bawang goreng."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Gulai Kari Ikan Kakap (Aceh)",
+    "bahan": {
+      "utama": [
+        "1 ekor ikan kakap (± 400 gram), potong menjadi 3 bagian",
+        "2 butir jeruk nipis, ambil airnya",
+        "1 sdt garam",
+        "3 sdm minyak untuk menumis",
+        "8 butir bawang merah, iris tipis",
+        "1 lembar daun pandan, simpul",
+        "1 tangkai daun temurui/daun kari/salam koja",
+        "400 ml santan kental",
+        "12 buah cabai rawit hijau utuh",
+        "4 buah belimbing sayur, belah dua",
+        "1 buah tomat, potong-potong"
+      ],
+      "bumbu_halus": [
+        "4 siung bawang putih",
+        "1 sdm ketumbar, sangrai",
+        "½ sdt merica butir",
+        "½ sdt adas",
+        "1 sdm poyak/ulhe",
+        "5 buah asam sunti",
+        "2 cm kunyit",
+        "3 cm jahe",
+        "6 buah cabai besar"
+      ]
+    },
+    "cara_membuat": [
+      "Lumuri ikan kakap dengan air jeruk nipis dan garam. Sisihkan.",
+      "Panaskan minyak, tumis bawang merah, daun pandan, dan daun kari hingga harum. Tambahkan bumbu halus, tumis hingga matang.",
+      "Tambahkan santan, cabai rawit hijau, belimbing sayur, dan tomat. Masak hingga mendidih.",
+      "Masukkan ikan kakap, masak dengan api sedang hingga ikan matang dan santan mengental. Angkat.",
+      "Sajikan gulai kari ikan kakap selagi hangat."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Gurame Pepes",
+    "bahan": {
+      "utama": [
+        "300 gram ikan gurame",
+        "50 gram bawang putih",
+        "50 gram bawang merah",
+        "100 gram cabai merah",
+        "20 gram laos",
+        "30 gram serai",
+        "2 lembar daun salam",
+        "Daun kemangi secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Haluskan semua bumbu yang telah dipersiapkan, lalu tumis hingga harum.",
+      "Letakkan ikan gurame di atas daun pisang, bubuhkan bumbu tumis di atasnya.",
+      "Gulung daun pisang hingga rapi, semat kedua ujungnya dengan penyemat bambu.",
+      "Kukus hingga matang, angkat.",
+      "Sajikan dengan daun kemangi untuk menetralisir bau amis."
+    ]
+  },
+  {
+    "nama": "Pepes Ikan Mas",
+    "bahan": {
+      "utama": [
+        "4 ekor ikan mas",
+        "3 buah belimbing sayur",
+        "2 sdm minyak goreng",
+        "2 tangkai serai, iris halus bagian putihnya",
+        "4 lembar daun salam",
+        "4 lembar daun jeruk",
+        "1 ikat daun kemangi",
+        "Daun pisang untuk pembungkus"
+      ],
+      "bumbu_halus": [
+        "6 butir bawang merah",
+        "6 siung bawang putih",
+        "7 butir cabai merah",
+        "2 sdm gula merah, iris",
+        "2 cm kencur",
+        "2 cm kunyit",
+        "Garam secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Bersihkan ikan mas, gurat-gurat badannya.",
+      "Remas belimbing sayur dan balurkan ke ikan. Sisihkan.",
+      "Campur bumbu halus dengan minyak goreng dan serai. Balurkan ke ikan mas, diamkan selama 20 menit.",
+      "Letakkan daun salam dan daun jeruk di atas daun pisang, taruh ikan mas dan beri sedikit bumbu. Bungkus rapi dan semat kedua ujungnya.",
+      "Kukus selama 45 menit, angkat. Panggang di atas bara api hingga pepes agak kering.",
+      "Sajikan."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Sayur Asam Kepala Patin (Banjar)",
+    "bahan": {
+      "utama": [
+        "1 kepala ikan patin, belah dua",
+        "7 kacang panjang",
+        "3 belahan kubis",
+        "1 tomat buah",
+        "1 ikat sawi hijau"
+      ],
+      "bumbu": [
+        "Asam jawa secukupnya",
+        "5 butir bawang merah",
+        "2 siung bawang putih",
+        "1 batang serai, memarkan",
+        "Kunyit",
+        "Garam secukupnya",
+        "Bumbu penyedap secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Didihkan air dalam panci.",
+      "Masukkan bumbu halus (bawang merah, bawang putih, kunyit) ke dalam air mendidih. Tambahkan serai, garam, dan bumbu penyedap.",
+      "Masukkan kepala ikan patin, masak hingga matang. Angkat kepala ikan, sisihkan.",
+      "Masukkan sayuran ke dalam air rebusan. Masak sebentar hingga matang.",
+      "Sajikan dengan menyendok sayur dan kuah ke dalam mangkuk, tambahkan kepala ikan."
+    ]
+  },
+  {
+    "nama": "Udang Masak Tempoyak",
+    "bahan": {
+      "utama": [
+        "1 kg udang ukuran sedang, dikupas",
+        "4 sdm tempuyak (daging buah durian yang telah difermentasi selama tiga malam)",
+        "2 papan petai",
+        "1 sdm cabai giling",
+        "½ sdt garam",
+        "Sedikit kunyit yang telah dihaluskan",
+        "3 siung bawang merah, iris halus",
+        "1 ruas jahe, memarkan",
+        "1 ruas lengkuas, memarkan",
+        "1 batang serai, memarkan",
+        "3 gelas santan dari 1 butir kelapa"
+      ]
+    },
+    "cara_membuat": [
+      "Memarkan jahe, lengkuas, dan serai.",
+      "Masukkan semua bahan ke dalam panci, tambahkan santan.",
+      "Rebus hingga mendidih sambil terus diaduk.",
+      "Masak hingga santan berminyak. Cicipi, tambahkan garam jika diperlukan.",
+      "Hidangkan bersama emping khas Bengkulu yang dibuat melebar dan tipis."
+    ]
+  },
+  {
+    "nama": "Nasi Ayam",
+    "bahan": {
+      "utama": [
+        "1 buah tahu kuning takwa, potong dadu kecil dan goreng",
+        "4 butir telur ayam, rebus matang dan goreng",
+        "1 dada ayam rebus dengan 1,5 liter air, 1 batang daun bawang dan 1 batang seledri",
+        "Setelah matang, potong dadu kecil"
+      ],
+      "kuah_ayam": [
+        "2 sdm minyak goreng",
+        "5 siung bawang putih, cincang halus",
+        "1 liter kaldu",
+        "1 sdt garam",
+        "½ sdt merica bubuk",
+        "2 sdm air"
+      ],
+      "pelengkap": [
+        "Perkedel udang: 200 gram udang, haluskan, campur 1 butir telur, 2 sdm tepung maizena, 1 sdt garam, ¼ sdt merica bubuk, 2 sdm irisan daun bawang, 2 sdm irisan seledri, bawang goreng",
+        "Sambal",
+        "Nasi putih secukupnya"
+      ]
+    },
+    "cara_membuat": [
+      "Kuah ayam: panaskan minyak, tumis bawang putih hingga harum, masukkan ke dalam kaldu, didihkan, tambahkan garam, merica, dan ROYCO cair. Setelah mendidih, angkat.",
+      "Perkedel udang: campur udang halus dengan telur, maizena, garam, dan merica bubuk. Cetak sesendok-sesendok, goreng hingga matang. Angkat dan iris.",
+      "Siapkan mangkuk, isi dengan nasi, potongan ayam, tahu takwa goreng, perkedel udang, potongan telur. Tuangkan kuahnya, taburi daun bawang, seledri, dan bawang goreng.",
+      "Sajikan hangat dengan sambal rebus."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Nasi Bambu (Lombok)",
+    "bahan": {
+      "utama": [
+        "75 gr nasi putih",
+        "20 gr bawang bombai, cincang halus",
+        "20 gr wortel, cincang halus",
+        "5 gr daun kemangi",
+        "25 gr daging ayam fillet",
+        "1 ruas bambu hitam ukuran besar"
+      ]
+    },
+    "cara_membuat": [
+      "Tumis wortel, bawang bombai, dan daging ayam fillet hingga matang.",
+      "Masukkan daun kemangi dan nasi ke dalam tumisan. Aduk hingga tercampur merata.",
+      "Masukkan nasi dan bahan yang telah tercampur ke dalam bambu hitam.",
+      "Kukus selama 15 menit. Angkat dan sajikan dengan lauk pelengkap seperti ayam bakar, sambal, dan lalap-lalapan."
+    ]
+  },
+  {
+    "nama": "Nasi Kuning Komplit",
+    "bahan": {
+      "utama": [
+        "2 sdm minyak goreng atau minyak samin",
+        "1 buah bawang bombai, potong-potong",
+        "500 gram beras putih",
+        "5 cm kunyit, parut atau 1 sdt kunyit bubuk",
+        "1 ekor ayam, potong 20 bagian",
+        "3 batang wortel, potong dadu",
+        "5 cm kayu manis",
+        "1 biji pala, memarkan",
+        "2 biji peka",
+        "3 batang serai, memarkan",
+        "5 cm jahe, memarkan",
+        "1 liter air panas",
+        "1 sdm ROYCO bumbu pelezat rasa ayam"
+      ],
+      "bumbu_halus": [
+        "5 siung bawang putih",
+        "1 sdm ketumbar",
+        "1 sdt jintan",
+        "3 buah kapulaga",
+        "2 sdt garam",
+        "1 sdt merica butiran"
+      ],
+      "taburan": ["Bawang goreng"]
+    },
+    "cara_membuat": [
+      "Rendam beras dengan kunyit parut selama 15 menit. Cuci bersih dan tiriskan.",
+      "Panaskan minyak, tumis bumbu halus bersama bawang bombai hingga harum.",
+      "Masukkan ayam, wortel, kayu manis, peka, dan bahan lainnya. Masak hingga ayam berubah warna.",
+      "Masukkan beras, aduk rata. Tambahkan air panas dan ROYCO, masak hingga menjadi nasi aron.",
+      "Kukus nasi aron selama 30 menit hingga matang. Angkat.",
+      "Sajikan hangat dengan taburan bawang goreng."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Nasi Liwet (Jawa)",
+    "bahan": {
+      "utama": [
+        "1 liter santan dari 1 butir kelapa",
+        "½ sdt garam",
+        "2 sdt ROYCO bumbu pelezat serbaguna rasa ayam",
+        "8 lembar daun salam",
+        "500 gram beras putih, cuci bersih"
+      ]
+    },
+    "cara_membuat": [
+      "Didihkan santan bersama garam dan daun salam.",
+      "Masukkan beras dan ROYCO, masak hingga menjadi nasi aron.",
+      "Kukus nasi aron selama 30 menit hingga matang. Angkat."
+    ],
+    "porsi": 8
+  },
+  {
+    "nama": "Sambal Dabu-Dabu Lilang (Manado)",
+    "bahan": [
+      "10 buah cabai rawit merah",
+      "10 buah cabai rawit hijau",
+      "5 butir bawang merah, iris tipis",
+      "2 buah tomat, cincang",
+      "1 sdt gula pasir",
+      "2 butir jeruk lemon cui, ambil airnya",
+      "5 tangkai daun kemangi, ambil daunnya"
+    ],
+    "cara_membuat": [
+      "Iris cabai rawit merah dan hijau, campur dengan bawang merah iris dan tomat.",
+      "Tambahkan garam dan gula pasir, aduk hingga rata, lalu diamkan hingga berair.",
+      "Tambahkan air lemon cui dan daun kemangi, aduk hingga tercampur rata.",
+      "Sajikan."
+    ],
+    "porsi": 4
+  },
+  {
+    "nama": "Sambal Goreng Hati Ayam",
+    "bahan": {
+      "utama": [
+        "12 buah hati ayam, cuci bersih, tiriskan",
+        "50 gram kapri",
+        "1 buah cabai merah, iris tipis serong",
+        "500 ml santan encer dari ½ butir kelapa",
+        "250 ml santan kental dari ½ butir kelapa",
+        "4 lembar daun jeruk",
+        "2 lembar daun salam",
+        "2 batang serai, memarkan",
+        "1 sdm air asam jawa",
+        "8 sdm kecap manis",
+        "Minyak goreng secukupnya"
+      ],
+      "bumbu_halus": [
+        "10 buah cabai merah",
+        "10 butir bawang merah",
+        "6 siung bawang putih",
+        "2 sdt garam"
+      ]
+    },
+    "cara_membuat": [
+      "Panaskan 2 sdm minyak, tumis cabai merah sebentar, angkat.",
+      "Panaskan sedikit minyak, tumis bumbu halus hingga harum.",
+      "Masukkan hati ayam, daun jeruk, daun salam, serai, dan air asam jawa. Tambahkan santan encer, didihkan.",
+      "Tambahkan santan kental dan kecap manis, masak hingga berminyak.",
+      "Masukkan kapri, aduk rata, angkat.",
+      "Sajikan sebagai pelengkap nasi langgi, taburi dengan irisan cabai merah goreng."
+    ],
+    "porsi": 6
+  },
+  {
+    "nama": "Sambal Kaluku (Ujung Pandang)",
+    "bahan": [
+      "½ butir kelapa muda",
+      "60 gram ikan gabus asin",
+      "10 buah cabai merah, iris tipis",
+      "2 siung bawang putih, haluskan",
+      "3 butir bawang merah, haluskan",
+      "1 batang seledri, ambil daunnya, iris tipis",
+      "4 lembar daun jeruk, buang tulang daunnya, iris tipis",
+      "Garam secukupnya",
+      "2 sdm minyak untuk menumis"
+    ],
+    "cara_membuat": [
+      "Kupas kelapa, lalu parut agak kasar, sisihkan.",
+      "Rendam ikan gabus asin hingga empuk, cincang kasar dagingnya.",
+      "Campur kelapa parut, ikan gabus, bawang putih, bawang merah, seledri, dan daun jeruk hingga rata.",
+      "Panaskan minyak, tumis sambal hingga harum.",
+      "Masak hingga daging ikan gabus matang dan berwarna kuning kecokelatan."
+    ],
+    "porsi": 4
+  }
+]
